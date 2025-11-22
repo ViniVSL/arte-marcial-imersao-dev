@@ -37,6 +37,10 @@ Descubra qual arte marcial combina mais com você!
 
 • 	Node.js
 
+🌐 Demonstração
+Acesse o projeto online:
+
+• 	https://vinivsl.github.io/arte-marcial-imersao-dev/
 
 ## 👨‍💻 Autor
 Projeto desenvolvido por Vinícius Santana Lima
